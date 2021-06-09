@@ -74,8 +74,8 @@ public class Array_MIn_Max {
                 max = list[i];
             }
         }
-        System.out.println("MAXIMUM VALUE"+ min);
-        System.out.println("MINIMUM VALUE: "+ max);
+        System.out.println("MAXIMUM VALUE: "+ max);
+        System.out.println("MINIMUM VALUE: "+ min);
         System.out.println("—————————————");
     }
 }
